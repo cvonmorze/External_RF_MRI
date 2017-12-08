@@ -3,4 +3,4 @@ This Matlab code allows the user to control a Agilent RF vector electronic signa
 
 Author: Cornelius von Morze
 
-(c)2017 The Regents of the University of California. All right reserved.
+(c)2017 The Regents of the University of California. All rights reserved.
